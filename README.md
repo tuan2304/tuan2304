@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:vuhuynhanhtuan2304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://pickleball-booking-mu-three.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-SportArena-000000?style=flat&logo=vercel&logoColor=white" alt="SportArena demo"/></a>
 </p>
