@@ -44,7 +44,7 @@ Final-year IT student and full-stack developer working mainly in **TypeScript**.
 
 ### 🎓 Education
 
-**[University name]**: B.Sc. in [Information Technology] · *Expected graduation [2027]*
+**[Hoasen University]**: B.Sc. in [Information Technology] · *Expected graduation [2027]*
 
 ---
 
