@@ -1,26 +1,51 @@
-## Hi, I'm Tuan 👋
+<div align="center">
 
-**Full-stack Developer** based in Ho Chi Minh City, Vietnam. I build web and mobile apps with TypeScript, from database to UI.
+# Vũ Huỳnh Anh Tuấn
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vuhuynhanhtuan2304@gmail.com)
+**Full-stack Developer** · Ho Chi Minh City, Vietnam
 
-### 🚀 Featured project
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuhuynhanhtuan2304@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuan2304)
 
-**[SportArena](https://github.com/tuan2304/pickleball-booking)**: a real-time sports court booking and matchmaking platform with VietQR deposits · [Live demo](https://pickleball-booking-mu-three.vercel.app/)
-<br/><sub>Next.js 16 · Supabase · PayOS · Expo. Double-booking prevented at the database level, RLS on every table, 150+ tests with CI.</sub>
+</div>
 
-### 🛠️ Tech stack
+---
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 👤 Summary
 
-<sub>📫 Open to full-stack internship opportunities.</sub>
+Final-year IT student and full-stack developer working mainly in **TypeScript**. I build web and mobile apps end to end, from database schema and security rules to UI, with tests and CI on every push. Currently looking for a **full-stack internship**.
+
+### 🛠️ Skills
+
+| | |
+|:--|:--|
+| **Languages** | TypeScript, JavaScript, SQL |
+| **Frontend** | Next.js, React, Angular, Tailwind CSS, shadcn/ui |
+| **Mobile** | React Native, Expo |
+| **Backend & Data** | Supabase (Postgres, Auth, RLS, Realtime), PostgreSQL, Firebase |
+| **Testing & DevOps** | Vitest, GitHub Actions, Docker, Vercel, Git |
+
+### 🚀 Projects
+
+**[SportArena](https://github.com/tuan2304/pickleball-booking)**: real-time sports court booking & matchmaking platform · [Live demo](https://pickleball-booking-mu-three.vercel.app/)
+<br/>*Next.js 16 · React 19 · Supabase · PayOS · Expo · Vitest*
+- Players book courts, pay deposits via VietQR and open matches for others to join; venue owners manage courts, pricing and bookings in real time.
+- Prevented double bookings at the database level with Postgres exclusion constraints; expired holds released automatically by `pg_cron`.
+- Integrated PayOS with signature-verified, idempotent webhooks; each owner's payment keys encrypted with AES-256-GCM.
+- Enforced Row Level Security on every table with a dedicated SQL test suite; 150+ Vitest tests and GitHub Actions CI.
+
+**[Lightwerk](https://github.com/ITSS-Academy/lightwerk)**: short-video social platform · *Team project at ITSS Academy*
+<br/>*Angular · TypeScript · Firebase* · [Backend](https://github.com/tuan2304/lightwerk-be)
+- Developed frontend and backend features in a team, collaborating through pull requests and code review.
+
+**[Lumina](https://github.com/tuan2304/Lumina)**: mobile app for reading novels online · *Team project*
+<br/>*React Native · JavaScript*
+
+### 🎓 Education
+
+**[University name]**: B.Sc. in [Information Technology] · *Expected graduation [2027]*
+
+---
+
+<div align="center"><sub>📫 Open to full-stack internship opportunities. Feel free to reach out!</sub></div>
